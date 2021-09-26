@@ -169,7 +169,7 @@ var highScore = [
     score:"10 points"
   },
   {
-    name:"Gouri",
+    name:"Mike",
     score: "9 points"
   }
 ]
